@@ -61,6 +61,7 @@ nav {
     padding: 10px;
     text-shadow: 0px 6px 8px rgba(255, 255, 255, 0.151);
     font-weight: bold;
+    padding-top: 40px;
 }
 nav > a {
     color: white;
